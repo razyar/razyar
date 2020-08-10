@@ -1,16 +1,18 @@
-### Hi there 👋
+### This is all i have!
 
 <!--
 **razyar/razyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- RA 1h 25m 25s | Dec +4° 36′ 3″
+- 65–90° N | 180° W – 180° E
+- 30–65° N | 120–180° W
+- 30–65° N | 60–120° W
+- 30–65° N | 0–60° W
+- 30–65° N | 0–60° E
+- 30–65° N | 60–120° E
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```python
+  sys.exit(0)
+```
+
 -->
