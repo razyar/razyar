@@ -1,7 +1,6 @@
 ### This is all i have!
 
 <!--
-**razyar/razyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Some heavens!
     - RA 1h 25m 25s | Dec +4° 36′ 3″
