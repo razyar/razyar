@@ -1,7 +1,6 @@
 ### This is all i have!
 
 <!--
-
 Some heavens!
     - RA 1h 25m 25s | Dec +4° 36′ 3″
     - 65–90° N | 180° W – 180° E
