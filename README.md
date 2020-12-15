@@ -5,7 +5,7 @@
 ```
 
 <body>
-<a href="https://github-readme-stats.vercel.app/api?username=razyarhttps://github.com/anuraghazra/github-readme-stats">
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=razyar)](https://github.com/razyar/github-readme-stats)
 
 </body>
 
