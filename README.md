@@ -5,8 +5,9 @@
 ```
 
 <body>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=razyar)](https://github.com/razyar/github-readme-stats)
-
+    <h1><align="center"> Sometimes you win </h1>
+        <h4><align="center"> Sometimes you learn </h4>
+         
 </body>
 
 ```python
