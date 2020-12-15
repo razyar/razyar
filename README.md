@@ -10,7 +10,7 @@ Some heavens!
     - 30–65° N | 0–60° E
     - 30–65° N | 60–120° E
 
-    ```python
+    ``` python
       sys.exit(0)
     ```
 
