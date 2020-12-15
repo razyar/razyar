@@ -7,7 +7,5 @@
            sometimes you learn
     ```
     
-    
-```python
     sys.exit(0)
 ```
