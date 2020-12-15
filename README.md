@@ -1,6 +1,6 @@
 ### This is all i have!
 
-<!--
+<body>
 Some heavens!
     - RA 1h 25m 25s | Dec +4° 36′ 3″
     - 65–90° N | 180° W – 180° E
@@ -14,4 +14,4 @@ Some heavens!
       sys.exit(0)
     ```
 
--->
+</body>
